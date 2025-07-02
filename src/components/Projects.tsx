@@ -1,5 +1,3 @@
-import React from "react";
-
 // Sample project list — customize these with real projects later
 const projects = [
   {
